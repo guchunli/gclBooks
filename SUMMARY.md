@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [test article](test-article.md)
-* first article
-* second article
+* [first article](first-article.md)
+* [second article](second-article.md)
 
